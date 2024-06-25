@@ -75,7 +75,7 @@ Comment::create([
     - Utilización de directivas {{ $variable }}, y.
     - Utilización de la función e().
 
-Como se muestra en la vista: [ressources/views/comments.blade.php](./ressources/views/comments.blade.php)
+Como se muestra en la vista: [resources/views/comments.blade.php](./resources/views/comments.blade.php)
 
 ```php
 @foreach ($comments as $comment)
