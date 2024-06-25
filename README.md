@@ -1,4 +1,4 @@
-# Laravel ASAWL - 02 Corss-Site Scripting (XSS)
+# Laravel ASAWL - 02 Cross-Site Scripting (XSS)
 
 ## Corss-Site Scripting (XSS)
 
